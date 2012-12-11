@@ -73,3 +73,13 @@ EOF
 %clean
 [ "%{buildroot}" != "/" ] && rm -rf %{buildroot}
 
+
+
+%changelog
+* Fri Aug 19 2011 Andrey Bondrov <abondrov@mandriva.org> 11b1-1mdv2012.0
++ Revision: 695274
+- imported package snespurify
+
+
+* Wed Aug 17 2011 Andrey Bondrov <bondrov@math.dvgu.ru> 11b1-1mdv2011.0
+- First release for Mandriva

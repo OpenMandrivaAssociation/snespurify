@@ -1,6 +1,6 @@
 %define name	snespurify
 %define version 11b1
-%define release %mkrel 1
+%define release 2
 
 Summary:	A tool to clean up SNES ROMs for compatibility with BSNES
 Name:		%{name}

@@ -7,7 +7,7 @@ Name:		%{name}
 Version:	%{version}
 Release:	%{release}
 License:	GPLv2
-URL:		http://byuu.org/
+URL:		https://byuu.org/
 Group:		Emulators
 Source0:	%{name}_v%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
